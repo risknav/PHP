@@ -22,4 +22,4 @@ if ($output == "Ping") {
     echo json_encode($data);
 }
 
-?>
+?> 
